@@ -12,9 +12,9 @@
 // console.log(null == 0);
 // console.log(null>= 0);
 
-console.log(undefined == 0);
-console.log(undefined > 0);
-console.log(undefined < 0);
+// console.log(undefined == 0);
+// console.log(undefined > 0);
+// console.log(undefined < 0);
 
 // note- is tarah ke conversion  kabhi bhi confusion me daal sakte hai 
 // ===
